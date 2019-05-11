@@ -1,0 +1,39 @@
+
+
+body {
+    background-color: #222034;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+h1,h2, h3 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+table {
+    color: white;
+    float: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.main {
+    text-align: center;
+    float: center;
+    width: 100%;
+}
+
+.chardesc {
+    margin-left: 30px;
+    margin-right: 10px;
+}
